@@ -1,0 +1,23 @@
+
+body{
+        background: rgb(247, 224, 24);
+        margin-top: 5%;
+}    
+    
+html, body { 
+    width :100%;
+    height: 100%;
+    color: rgb(rgb(133, 45, 45))
+    }
+
+
+.frase1{
+   display: flex; 
+   flex-direction: column;
+   align-items: center;
+}
+
+.cifra{
+    width: 50%;
+    height: 50%
+}
